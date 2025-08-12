@@ -1,0 +1,16 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[知识库构建]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>知识库构建</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 12 Aug 2025 13:41:15 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 12 Aug 2025 13:41:15 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[使用Obsidian]]></title><description><![CDATA[下面是 Obsidian 的官方网址， 它支持各个平台 Windows、Mac 等：
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://obsidian.md/" target="_self">https://obsidian.md/</a>点击软件左下，弹出 "管理仓库......" 菜单 ：<br>
+<img alt="Pasted image 20250812165930.png" src="attachments/pasted-image-20250812165930.png" target="_self">
+创建一个仓库就是在硬盘上创建了一个目录，然后在其中保存 markdown 文件， 图片等 ：<br>
+<img alt="Pasted image 20250812165944.png" src="attachments/pasted-image-20250812165944.png" target="_self">
+下面是默认情况下仓库文件夹下的文件 ：<br>
+<img alt="Pasted image 20250812165149.png" src="attachments/pasted-image-20250812165149.png" target="_self">
+显然粘贴的图片多了以后， 仓库会变得凌乱，最好是创建一个文件夹名字叫 Attachments， 将粘贴的图片都拷贝到这里，需要在 obsidian 中做如下设置 ：<br><img alt="Pasted image 20250812165843.png" src="attachments/pasted-image-20250812165843.png" target="_self">如果要导出 HTML， 需要使用 Webpage HTML export 插件 。 先 "关闭安全模式" ：<br>
+<img alt="Pasted image 20250812210958.png" src="attachments/pasted-image-20250812210958.png" target="_self">点击 "浏览" 来寻找需要的插件 ：<br>
+<img alt="Pasted image 20250812211727.png" src="attachments/pasted-image-20250812211727.png" target="_self">
+搜索 Webpage HTML export， 并进行 "安装" 和 "启用" ：<br>
+<img alt="Pasted image 20250812212216.png" src="attachments/pasted-image-20250812212216.png" target="_self">
+之后就将 obsidian 的 .md 文件 "导出为HTML" ：<br>
+<img alt="Pasted image 20250812212840.png" src="attachments/pasted-image-20250812212840.png" target="_self">
+下面是导出页面，可以被互联网访问的关键设置。都设置好以后，点击 "导出" 就可以 ：<br>
+<img alt="Pasted image 20250812213817.png" src="attachments/pasted-image-20250812213817.png" target="_self">]]></description><link>使用obsidian.html</link><guid isPermaLink="false">使用Obsidian.md</guid><pubDate>Tue, 12 Aug 2025 13:39:41 GMT</pubDate><enclosure url="HTML/attachments/pasted-image-20250812165930.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="HTML/attachments/pasted-image-20250812165930.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
